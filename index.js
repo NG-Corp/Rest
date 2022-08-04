@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const PORT = "https://api.github.com/rest1;
+const PORT = "https://api.github.com/rest1";
 const res = require("res");
 const req = require("request");
 const { createWorker} = require("tesseract.js");
